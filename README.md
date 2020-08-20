@@ -17,6 +17,7 @@ Components Needed:
   
   About Our Project(UltraSonic Car):
     
+    Firstly, we will 
 
 
 
