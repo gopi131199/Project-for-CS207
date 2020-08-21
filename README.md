@@ -5,8 +5,7 @@ We decided to make a project using an ultrasonic sensor. Sensor is mounted on th
 
 To get familiar with the repository following is a map of all contents:
   * **/src** - Code for the project
-  * **/hardware** - Hardware sketch/ model.
-  * **/build** -
+  * **/hardware** - Hardware sketch/ model
   * **/img** - Required images.
   * **/LICENSE** - License file.
   * **/README.md** - About Project that will help you to get started.
